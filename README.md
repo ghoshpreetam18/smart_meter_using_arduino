@@ -3,7 +3,7 @@
 The Smart meter project was undertaken by me and my teammates as a "Minor Project" for engineering curriculum in the 6th semester while we were studying B.Tech in Electronics and Electrical Engineering at KIIT University. 
 
 Teammates who worked on this project:
-#1. Rajdeep Debnath
-#2. Shwetabh Sekhar
-#3. Siddharth Pandey
-#4. Rozalin Panda
+1. Rajdeep Debnath
+2. Shwetabh Sekhar
+3. Siddharth Pandey
+4. Rozalin Panda
